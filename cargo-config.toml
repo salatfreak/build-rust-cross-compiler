@@ -1,0 +1,5 @@
+[build]
+target = "armv4t-unknown-linux-uclibceabi"
+
+[target.armv4t-unknown-linux-uclibceabi]
+linker = "arm-gcc"
